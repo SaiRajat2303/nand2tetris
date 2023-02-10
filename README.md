@@ -8,3 +8,11 @@ The project relies on using different levels of abstraction. Using Nand Gates we
 Tune in to check out other projects on computer architecture , VLSI design and varied fields of electronics.
 
 Project_01 contains codes for all the basic gates such as And,OR,And_16 , i.e. a bitwise AND gate with 16 inputs , Multiplexors , Demultiplexors and so on.
+
+Project 2 components have been added as discrete files , which involve half adders , full adders and so on.
+
+Project 3,4,5 and 6 have been added as zip files , one can download the zip files to access the solutions to the exercises in these projects.
+
+Feel free to refer when you get stuck as you take your first step towards Computer and VLSI architecture.
+
+Happy Processor Designing !
